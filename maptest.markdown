@@ -1,6 +1,6 @@
 ---
-layout: default
-title:  "Map Test"
+layout: page
+title: Map Test
 permalink: /map/
 
 ---
